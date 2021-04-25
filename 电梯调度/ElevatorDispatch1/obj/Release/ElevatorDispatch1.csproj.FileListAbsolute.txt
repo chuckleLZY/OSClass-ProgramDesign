@@ -1,0 +1,10 @@
+D:\vs\ElevatorDispatch1\ElevatorDispatch1\bin\Release\ElevatorDispatch1.exe.config
+D:\vs\ElevatorDispatch1\ElevatorDispatch1\bin\Release\ElevatorDispatch1.exe
+D:\vs\ElevatorDispatch1\ElevatorDispatch1\bin\Release\ElevatorDispatch1.pdb
+D:\vs\ElevatorDispatch1\ElevatorDispatch1\obj\Release\ElevatorDispatch1.Form.resources
+D:\vs\ElevatorDispatch1\ElevatorDispatch1\obj\Release\ElevatorDispatch1.Properties.Resources.resources
+D:\vs\ElevatorDispatch1\ElevatorDispatch1\obj\Release\ElevatorDispatch1.csproj.GenerateResource.cache
+D:\vs\ElevatorDispatch1\ElevatorDispatch1\obj\Release\ElevatorDispatch1.csproj.CoreCompileInputs.cache
+D:\vs\ElevatorDispatch1\ElevatorDispatch1\obj\Release\ElevatorDispatch1.exe
+D:\vs\ElevatorDispatch1\ElevatorDispatch1\obj\Release\ElevatorDispatch1.pdb
+D:\vs\ElevatorDispatch1\ElevatorDispatch1\obj\Release\ElevatorDispatch1.csprojAssemblyReference.cache
